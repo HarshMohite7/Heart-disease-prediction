@@ -38,3 +38,27 @@ This project predicts whether a person is likely to have heart disease based on 
 - Convert model into API (FastAPI)
 - Add frontend UI
 - Deploy as web app
+
+
+## 🛠️ Setup Instructions
+
+1. Clone the repository:
+   git clone https://github.com/your-username/heart-disease-prediction.git
+
+2. Navigate to the folder:
+   cd heart-disease-prediction
+
+3. Install dependencies:
+   pip install -r requirements.txt
+
+4. Run the notebook:
+   Open LogisticRegression.ipynb in Jupyter Notebook / Lab and run all cells
+
+## 📈 Sample Output
+
+Model Accuracy: 85%  (example)
+
+
+## 🚀 Future Scope
+- Convert into REST API using FastAPI
+- Deploy model for real-time predictions
